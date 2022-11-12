@@ -17,7 +17,7 @@
   flex-wrap: wrap;
 }
 .grid > * {
-  flex: 1 1 10em;
+  flex: 1 1 20em;
 }
 .content-sidebar {
   display: flex;
